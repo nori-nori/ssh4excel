@@ -7,8 +7,7 @@ For example, to connect a router or switch, other net devices.
 
 # Sample(screenshot)
 
-![](https://github.com/nori-nori/ssh4excel/example/ssh.gif)
-
+![](https://github.com/nori-nori/ssh4excel/blob/master/example/ssh.gif)
 ***
 
 
